@@ -67,3 +67,4 @@
 !/**/Output/**/*.xml
 !/**/Output/**/*.eps
 !/**/Output/**/*.svg
+Output/password.txt
